@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+   
+   
+}
+
+.mainbg {
+    background-color: #eeeeee;
+}
+.whitebox {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    padding: 8px;
+   
+}
+
+.content {
+    background-color: #e3f3ff;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: 800;
+    padding: 18px
+}
+
+.blue {
+    background-color: #e3f3ff;
+    padding: 8px;
+}
+
+.paragraph {
+    padding: 16px 8px;
+}
+
+
+
+.buttoncontent {
+    text-align: center;
+}
+
+.button {
+    padding: 24px 8px;
+    background-color: #e3f3ff;
+}
+
+
+
+
